@@ -1,8 +1,0 @@
-{
-  "/search/page": "app/search/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
-  "/page": "app/page.js",
-  "/topics/[slug]/page": "app/topics/[slug]/page.js",
-  "/topics/[slug]/posts/[postId]/page": "app/topics/[slug]/posts/[postId]/page.js"
-}
